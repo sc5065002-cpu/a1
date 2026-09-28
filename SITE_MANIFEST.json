@@ -1,0 +1,207 @@
+{
+  "domain": "portfoliobag",
+  "niche": "Haute Leathercraft & Bespoke Portfolio Bag",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "portfoliobag_asset_18.jpg",
+      "size_kb": 200.71,
+      "md5": "40b6201ea01b189b90483b979cb6debc",
+      "description": "Gladstone bag made of ox leather",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "portfoliobag_asset_25.jpg",
+      "size_kb": 116.64,
+      "md5": "1d47e4dd87b13ff1579db2242b147528",
+      "description": "Cebu resin Purse",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "portfoliobag_asset_26.jpg",
+      "size_kb": 24.94,
+      "md5": "0bfb031085293d7ac4b379a0ae69ef63",
+      "description": "Designer Bag",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "portfoliobag_asset_31.jpg",
+      "size_kb": 155.51,
+      "md5": "8a5b3379e7ba39ff2658a73f3d5034a1",
+      "description": "Handbag designer unknown after 19",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "portfoliobag_asset_32.jpg",
+      "size_kb": 258.77,
+      "md5": "daf5304a9af6618839016a5dcf392be4",
+      "description": "Handbag at Nordstrom Rack Santa R",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "portfoliobag_asset_33.jpg",
+      "size_kb": 219.88,
+      "md5": "8e031aaa71baa846d32169ac95ada3de",
+      "description": "Handbag booth at Feria Arequipa 2026",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "portfoliobag_asset_34.jpg",
+      "size_kb": 72.3,
+      "md5": "1a19690ba5b3f9f4d531153904a1fdc2",
+      "description": "Handbags ST660 5 01 Kostuum Acc",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "portfoliobag_asset_35.jpg",
+      "size_kb": 76.62,
+      "md5": "4aeb7bc3bce82ea3a474c99bff68bb57",
+      "description": "Handbags ST660 5 02 Kostuum Acc",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "portfoliobag_asset_36.jpg",
+      "size_kb": 264.39,
+      "md5": "c7fe7ca4537e40982501dc846bce4f77",
+      "description": "Portrait of woven handbag at the Me",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "portfoliobag_asset_37.jpg",
+      "size_kb": 124.98,
+      "md5": "8914f4ac71923eb6f350819a138882cc",
+      "description": "Purse AM 13345 9",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "portfoliobag_asset_38.jpg",
+      "size_kb": 27.77,
+      "md5": "543f27675702286accb422befbdd9e6f",
+      "description": "Queen Elizabeth II 2015 HO1 croppe",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "portfoliobag_asset_39.jpg",
+      "size_kb": 104.65,
+      "md5": "f3cd71a5830985dc5f65371b7c40e791",
+      "description": "Resin purse",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "portfoliobag_asset_40.jpg",
+      "size_kb": 155.9,
+      "md5": "3c946f424650f8732e1e46e5a4b21da3",
+      "description": "Stingray skin handbag 48645301521",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "portfoliobag_asset_41.jpg",
+      "size_kb": 69.87,
+      "md5": "9c420e28cfeae4ece3866ff58d3c51e0",
+      "description": "TV Presenter Jen Su with SA Handbag",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "portfoliobag_asset_42.jpg",
+      "size_kb": 316.17,
+      "md5": "246e5da749de9d7cf4f202b385107a3a",
+      "description": "The Big Texan Steak Ranch Gift Shop",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "portfoliobag_asset_43.jpg",
+      "size_kb": 139.26,
+      "md5": "76ce2a0570cd5e92106f6afbfb2919d1",
+      "description": "Woman with black jacket and bag sta",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "portfoliobag_asset_48.jpg",
+      "size_kb": 160.33,
+      "md5": "7e7cc3f2f4941aa006a73883dd6c8045",
+      "description": "Briefcase portefuille MET DP170412",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "portfoliobag_asset_49.jpg",
+      "size_kb": 149.6,
+      "md5": "f469f1f5a3b1c06c025b3d9afb52aeff",
+      "description": "Briefcase portefuille MET DP170413",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "portfoliobag_asset_50.jpg",
+      "size_kb": 193.71,
+      "md5": "0271f0b9533c5adb7e4b194bf14503b8",
+      "description": "Briefcase MET 212686",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "portfoliobag_asset_51.jpg",
+      "size_kb": 274.99,
+      "md5": "ee0c9e285b191596129c52a3ede350cd",
+      "description": "Briefcase MET 212687",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://portfoliobag.com/sitemap.xml",
+    "robots": "https://portfoliobag.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
